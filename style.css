@@ -1,0 +1,17 @@
+ body{
+    padding: 10px;
+    margin left: 30px ;
+    backgraund color::backdrop
+}
+h1{
+     font-size: large;
+    font-style: italic;
+ color: blue;
+}
+.ggg{
+    background-color: black;
+}
+.from{
+    background-color: aqua;
+    text-align: center;
+}
